@@ -16,6 +16,6 @@ This application relies on the following npm packages:
 
 ## Deployment
 
-website not displaying properly
+website application not displaying properly
 
 here is the deployed [Link]( https://intense-harbor-10664.herokuapp.com/)
